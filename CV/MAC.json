@@ -313,6 +313,19 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Bachelor's Degree Software Engineering",
+        "startDate": "2011-09-01",
+        "finishDate": "2015-09-01",
+        "institution": {
+          "name": "Universitat Politécnica de València",
+          "description": "Degree completed as part of the high-performance group (ARA). Graduated with honors in my undergraduate project."
+        }
+      }
     ]
   },
   "careerPreferences": {
