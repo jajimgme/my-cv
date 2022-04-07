@@ -10,6 +10,10 @@
       "surnames": "Jiménez Gómez",
       "title": "Poliglot Backend Developer",
       "description": "I am a Software Engineer currently based on Valencia, Spain currently working in a Consulting / R&D firm. Although I have mainly worked with .Net and Angular I have worked in many different projects currently with special emphasis on data, developing data warehouses, ETL and data visualization solutions. That usually means picking formerly unknown technologies on the fly and explore new areas with new teams. I am really polifacetic either in my professional and personal life. Currently I love surfing and digging techno records.",
+      "avatar": {
+        "alt": "IMG_20211206_170035.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/07/373442ab-94f9-4576-b7f0-eccf1ff232eb_img_20211206_170035.jpg"
+      },
       "location": {
         "notes": "Valencia"
       }
