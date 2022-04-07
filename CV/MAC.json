@@ -122,6 +122,40 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Instituto Tecnológico de Informática"
+        },
+        "roles": [
+          {
+            "name": "SOFTWARE ENGINEER - ",
+            "startDate": "2017-10-01",
+            "challenges": [
+              {
+                "description": "INSTITUTO TECNOLÓGICO DE INFORMÁTICA (ITI)"
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": ".Net Core",
+                "type": "technology"
+              },
+              {
+                "name": "Net core",
+                "type": "technology"
+              },
+              {
+                "name": "API",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
