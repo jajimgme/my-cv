@@ -325,6 +325,17 @@
           "name": "Universitat Politécnica de València",
           "description": "Degree completed as part of the high-performance group (ARA). Graduated with honors in my undergraduate project."
         }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master's Degreee in Computer Engineering and Software Technologies",
+        "startDate": "2015-09-01",
+        "finishDate": "2016-09-01",
+        "institution": {
+          "name": "Universitat Politècnica de València",
+          "description": "Completed while collaborating with a research group."
+        }
       }
     ]
   },
