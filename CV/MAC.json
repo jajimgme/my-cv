@@ -125,15 +125,16 @@
       },
       {
         "organization": {
-          "name": "Instituto Tecnológico de Informática"
+          "name": "Instituto Tecnológico de Informática",
+          "URL": ""
         },
         "roles": [
           {
-            "name": "SOFTWARE ENGINEER - ",
+            "name": "Software Engineer",
             "startDate": "2017-10-01",
             "challenges": [
               {
-                "description": "INSTITUTO TECNOLÓGICO DE INFORMÁTICA (ITI)"
+                "description": "Currently working as a Software Engineer in a R&D and Consultancy company in which I participate in the proposal, design, implementation, and maintenance of diverse projects.\nI develop backend (Rest APIs) and other services mainly using .Net and SQL databases. I develop web applications in Angular or Vue with Typescript and JavaScript. Currently these developments are focused on the data solutions universe. I design and implement data warehouses, BI solutions, data visualization, live data monitoring, ETLs and data pipelines. I wear many hats so I have the opportunity to explore different technologies. I have hands on experience with Power BI, Python, Docker, NodeJs, CI/CD, Azure, InfluxDB, Grafana and ML adjacent projects."
               }
             ],
             "competences": [
@@ -151,6 +152,50 @@
               },
               {
                 "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              },
+              {
+                "name": "InfluxDB",
+                "type": "technology"
+              },
+              {
+                "name": "Power BI",
+                "type": "technology"
+              },
+              {
+                "name": "ETL",
+                "type": "technology"
+              },
+              {
+                "name": "Pentaho",
+                "type": "technology"
+              },
+              {
+                "name": "Grafana",
                 "type": "technology"
               }
             ]
