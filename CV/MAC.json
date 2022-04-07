@@ -201,6 +201,45 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Customerville"
+        },
+        "roles": [
+          {
+            "name": "Fullstack developer",
+            "startDate": "2017-02-01",
+            "finishDate": "2017-10-01",
+            "challenges": [
+              {
+                "description": "I worked building surveys (web applications) for international customers. With tasks like web app development, data querying and reporting and mailing templates creation using .Net Framework, AngularJs, Razor and SQL Server"
+              }
+            ],
+            "competences": [
+              {
+                "name": "ASP.net",
+                "type": "technology"
+              },
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "Razor",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
